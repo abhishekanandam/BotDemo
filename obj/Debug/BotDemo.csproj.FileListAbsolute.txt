@@ -1,0 +1,39 @@
+D:\DemandTool\BotDemo\BotDemo\bin\Bot Application1.dll.config
+D:\DemandTool\BotDemo\BotDemo\bin\Bot Application1.dll
+D:\DemandTool\BotDemo\BotDemo\bin\Bot Application1.pdb
+D:\DemandTool\BotDemo\BotDemo\bin\Autofac.dll
+D:\DemandTool\BotDemo\BotDemo\bin\Chronic.dll
+D:\DemandTool\BotDemo\BotDemo\bin\Microsoft.Bot.Builder.dll
+D:\DemandTool\BotDemo\BotDemo\bin\Microsoft.Bot.Connector.dll
+D:\DemandTool\BotDemo\BotDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\DemandTool\BotDemo\BotDemo\bin\Microsoft.Rest.ClientRuntime.dll
+D:\DemandTool\BotDemo\BotDemo\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\DemandTool\BotDemo\BotDemo\bin\Newtonsoft.Json.dll
+D:\DemandTool\BotDemo\BotDemo\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\DemandTool\BotDemo\BotDemo\bin\System.Net.Http.Formatting.dll
+D:\DemandTool\BotDemo\BotDemo\bin\System.Web.Http.dll
+D:\DemandTool\BotDemo\BotDemo\bin\System.Web.Http.WebHost.dll
+D:\DemandTool\BotDemo\BotDemo\bin\Autofac.xml
+D:\DemandTool\BotDemo\BotDemo\bin\Microsoft.Bot.Builder.xml
+D:\DemandTool\BotDemo\BotDemo\bin\Microsoft.Bot.Connector.xml
+D:\DemandTool\BotDemo\BotDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+D:\DemandTool\BotDemo\BotDemo\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\DemandTool\BotDemo\BotDemo\bin\Microsoft.Rest.ClientRuntime.xml
+D:\DemandTool\BotDemo\BotDemo\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\DemandTool\BotDemo\BotDemo\bin\Newtonsoft.Json.xml
+D:\DemandTool\BotDemo\BotDemo\bin\System.IdentityModel.Tokens.Jwt.pdb
+D:\DemandTool\BotDemo\BotDemo\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\DemandTool\BotDemo\BotDemo\bin\System.Net.Http.Formatting.xml
+D:\DemandTool\BotDemo\BotDemo\bin\System.Web.Http.xml
+D:\DemandTool\BotDemo\BotDemo\bin\System.Web.Http.WebHost.xml
+D:\DemandTool\BotDemo\BotDemo\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\DemandTool\BotDemo\BotDemo\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\DemandTool\BotDemo\BotDemo\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\DemandTool\BotDemo\BotDemo\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\DemandTool\BotDemo\BotDemo\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\DemandTool\BotDemo\BotDemo\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\DemandTool\BotDemo\BotDemo\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\DemandTool\BotDemo\BotDemo\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\DemandTool\BotDemo\BotDemo\obj\Debug\BotDemo.csprojResolveAssemblyReference.cache
+D:\DemandTool\BotDemo\BotDemo\obj\Debug\Bot Application1.dll
+D:\DemandTool\BotDemo\BotDemo\obj\Debug\Bot Application1.pdb
